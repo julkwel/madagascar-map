@@ -1,9 +1,12 @@
 # Madagascar-map
 
-Liste des régions , commune , fokontany Madagascar
+Lisitr'ireo fokontany, kaominina , distrika eto Madagasikara.
 
-# TODO
+## Zavatra mila atao :
 
-- Create relation between regions > district > commune > fokontany.
+- Mametraka ny fifandraisan'ireo kaominina sy fokontany.
 
-*Code for fun !!!*
+- Fanadiovana ny `données`
+
+
+**Code for fun !**
