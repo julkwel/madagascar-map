@@ -1,0 +1,170 @@
+{
+    "Region": [
+        "District"
+    ],
+    "ANALAMANGA": [
+        "Ambohidratrimo",
+        "Andramasina",
+        "Anjozorobe",
+        "Ankazobe",
+        "Antananarivo Atsimondrano",
+        "Antananarivo Avaradrano",
+        "Manjakandriana",
+        "Antananarivo-I",
+        "Antananarivo-II",
+        "Antananarivo-III",
+        "Antananarivo-IV",
+        "Antananarivo-V",
+        "Antananarivo-VI"
+    ],
+    "BONGOLAVA": [
+        "FENOARIVOBE",
+        "TSIROANOMANDIDY"
+    ],
+    "ITASY": [
+        "ARIVONIMAMO",
+        "MIARINARIVO",
+        "SOAVINANDRIANA"
+    ],
+    "VAKINANKARATRA": [
+        "AMBATOLAMPY",
+        "ANTANIFOTSY",
+        "ANTSIRABE I",
+        "ANTSIRABE II",
+        "BETAFO",
+        "FARATSIHO",
+        "MANDOTO"
+    ],
+    "DIANA": [
+        "AMBANJA",
+        "AMBILOBE",
+        "ANTSIRANANA I",
+        "ANTSIRANANA II",
+        "NOSY-BE"
+    ],
+    "SAVA": [
+        "ANDAPA",
+        "ANTALAHA",
+        "SAMBAVA",
+        "VOHEMAR"
+    ],
+    "AMORON'I MANIA": [
+        "AMBATOFINANDRAHANA",
+        "AMBOSITRA",
+        "FANDRIANA",
+        "MANANDRIANA"
+    ],
+    "ATSIMO-ATSINANANA": [
+        "BEFOTAKA ATSIMO",
+        "FARAFANGANA",
+        "MIDONGY SUD",
+        "VANGAINDRANO",
+        "VONDROZO"
+    ],
+    "HAUTE MATSIATRA": [
+        "AMBALAVAO",
+        "AMBOHIMAHASOA",
+        "FIANARANTSOA",
+        "ISANDRA",
+        "IKALAMAVONY",
+        "VOHIBATO",
+        "LALANGINA"
+    ],
+    "IHOROMBE": [
+        "IAKORA",
+        "IHOSY",
+        "IVOHIBE"
+    ],
+    "FITOVINANY": [
+        "IKONGO",
+        "MANAKARA",
+        "VOHIPENO"
+    ],
+    "VATOVAVY": [
+        "IFANADIANA",
+        "MANANJARY",
+        "NOSY VARIKA"
+    ],
+    "BETSIBOKA": [
+        "KANDREHO",
+        "MAEVATANANA",
+        "TSARATANANA"
+    ],
+    "BOENY": [
+        "AMBATO BOENI",
+        "MAHAJANGA I",
+        "MAHAJANGA II",
+        "MAROVOAY",
+        "MITSINJO",
+        "SOALALA"
+    ],
+    "MELAKY": [
+        "AMBATOMAINTY",
+        "ANTSALOVA",
+        "BESALAMPY",
+        "MAINTIRANO",
+        "MORAFENOBE"
+    ],
+    "SOFIA": [
+        "ANALALAVA",
+        "ANTSOHIHY",
+        "BEALANANA",
+        "BEFANDRIANA NORD",
+        "MAMPIKONY",
+        "MANDRITSARA",
+        "PORT-BERGE"
+    ],
+    "ALAOTRA-MANGORO": [
+        "AMBATONDRAZAKA",
+        "AMPARAFARAVOLA",
+        "ANDILAMENA",
+        "ANOSIBE AN ALA",
+        "MORAMANGA"
+    ],
+    "ANALANJIROFO": [
+        "FENERIVE EST",
+        "MANANARA-NORD",
+        "MAROANTSETRA",
+        "SAINTE MARIE",
+        "SOANIERANA IVONGO",
+        "VAVATENINA"
+    ],
+    "ATSINANANA": [
+        "ANTANAMBAO MANAMPO",
+        "BRICKAVILLE",
+        "MAHANORO",
+        "MAROLAMBO",
+        "TOAMASINA I",
+        "TOAMASINA II",
+        "VATOMANDRY"
+    ],
+    "ANDROY": [
+        "AMBOVOMBE ANDROY",
+        "BEKILY",
+        "BELOHA ANDROY",
+        "TSIHOMBE"
+    ],
+    "ANOSY": [
+        "AMBOASARY SUD",
+        "BETROKA",
+        "TAOLANARO"
+    ],
+    "ATSIMO-ANDREFANA": [
+        "AMPANIHY OUEST",
+        "ANKAZOABO SUD",
+        "BENENITRA",
+        "BEROROHA",
+        "BETIOKY SUD",
+        "MOROMBE",
+        "SAKARAHA",
+        "TOLIARY I",
+        "TOLIARY II"
+    ],
+    "MENABE": [
+        "BELO SUR TSIRIBIHINA",
+        "MAHABO",
+        "MANJA",
+        "MIANDRIVAZO",
+        "MORONDAVA"
+    ]
+}
